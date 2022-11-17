@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53215386852",
+    "firebase_url": "https://integratedsamsungfranchise-default-rtdb.firebaseio.com",
+    "project_id": "integratedsamsungfranchise",
+    "storage_bucket": "integratedsamsungfranchise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53215386852:android:6c440256aeaa10d58be0f1",
+        "android_client_info": {
+          "package_name": "com.SamsungFranchise.IMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53215386852-lr7css0ssn7tuvih8v8vq4throgj1bu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CkqS1fXWBwlXD_OgEZ7FyyapVodu_eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53215386852-lr7css0ssn7tuvih8v8vq4throgj1bu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
